@@ -1,0 +1,245 @@
+---
+title: "Welcome!"
+author: "JooYoung Seo"
+institute: "School of Information Sciences</br>University of Illinois at Urbana-Champaign"
+subtitle: "Accessibility in HCI Seminar"
+format:
+  revealjs:
+    slide-tone: true
+    theme: night
+    multiplex: true
+    # incremental: true
+---
+
+## Ice Breaker
+
+::: {.fragment .highlight-current-green}
+
+1. Who are you?
+
+:::
+
+::: {.fragment .highlight-current-green}
+
+2. What are your cultural, academic, and professional backgrounds?
+
+:::
+
+::: {.fragment .highlight-current-green}
+
+3. How can we make this seminar more accessible for you?
+
+:::
+
+::: {.fragment .highlight-current-green}
+
+4. What are your expectations for this seminar?
+
+:::
+
+
+::: {.notes}
+
+Let's start with an ice breaker!
+
+:::
+
+# Course Overview
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+::: {.incremental}
+
+- Explain the principles of **human-computer interaction** and their relevance to **accessibility**
+- Perform accessibility **testing** using established guidelines and **assistive technologies**
+- Conduct **user research** and **task analysis** to inform accessible design
+
+:::
+
+## Learning Objectives
+
+::: {.incremental}
+
+- Evaluate the usability and accessibility of interfaces using **heuristic evaluation**, **cognitive walkthroughs**, and **user testing**
+- Design accessible and usable interfaces that meet the needs of **diverse users**
+
+:::
+
+## Learning Objectives
+
+- Interpret and apply **accessibility standards** and **guidelines**, including:
+
+  ::: {.fragment}
+  - Web Content Accessibility Guidelines (WCAG)
+  - Universal Design (UD)
+  - Universal Design for Learning (UDL)
+  - Voluntary Product Accessibility Template (VPAT)
+  :::
+
+## Learning Objectives
+
+::: {.incremental}
+
+- Critically analyze current research on HCI and accessibility and identify areas for future study
+- Communicate the importance of accessibility to various stakeholders and advocate for inclusive practices
+
+:::
+
+## Course Topics
+
+- Introduction to HCI and Accessibility
+- User Research Methods
+- Usability and User Experience (UX) Goals
+- Heuristic Evaluation and Cognitive Walkthroughs
+- Usability Testing Design and Implementation
+- Accessibility Standards and Guidelines
+- Accessible Interaction Design and Technologies
+- Universal Usability and Inclusive Design
+- Emerging Topics in HCI and Accessibility
+
+## Textbooks
+
+::: {.incremental}
+
+- Lazar, J., Feng, J.H., & Hochheiser, H. (2017). *Research Methods in Human-Computer Interaction* (2nd ed.). Morgan Kaufmann.
+
+- [Optional] Shneiderman, B., Plaisant, C., Cohen, M., Jacobs, S., & Elmqvist, N. (2016). *Designing the User Interface: Strategies for Effective Human-Computer Interaction* (6th ed.). Pearson.
+
+:::
+
+## Articles and Resources
+
+::: {.incremental}
+
+- Will be shared via private Zotero group
+
+- Students will be removed from the group after the course ends
+
+- Reading list may be subject to change
+
+:::
+
+## Assignments and Grading
+
+::: {.incremental}
+
+- Class Attendance (10%)
+- Discussion Moderation (15%)
+- Mini Proposal (15%): 3/24 due
+- Independent Final Project (Proposal): 5/12 due
+  - Presentation (20%)
+  - Proposal Writing (40%)
+
+:::
+
+## Class Attendance
+::: {.incremental}
+
+- Absence more than 2 times may result in a 5% deduction from the final grade
+
+- Notify in advance if you need to miss a class
+
+- Medical or family emergencies will be considered\above
+
+:::
+
+## Discussion Moderation
+
+::: {.incremental}
+
+- Each student will moderate one class discussion
+
+- Choose a topic from the syllabus
+
+- Up to an hour including reading summary, discussion questions, and activities
+
+- Share your plans with JooYoung and Yilin at least one week before your scheduled date
+
+:::
+
+## Mini Proposal
+
+- 2-3 pages, double-spaced, 12-point font
+
+- Due 3/24
+
+- Address 9 questions (Maxwell, 2005)
+
+## Mini Proposal (3/24)
+
+::: {.incremental}
+
+1. What do readers need to better understand your topic?
+
+2. What do readers need to know about your topic?
+
+3. What do you propose to study?
+
+4. What is the setting, and who are the people you will study?
+
+:::
+
+## Mini Proposal (3/24)
+
+::: {.incremental}
+
+5. What methods do you plan to use to collect data?
+
+6. How will you analyze the data?
+
+7. How will you validate your findings?
+
+8. What ethical issues will your study present?
+
+9. What do preliminary results show about the practicability and value of the proposed study?
+
+:::
+
+
+## Final Project
+
+- Full proposal (15-20 pages with references): 5/12
+- Presentation (10 minutes): 5/12
+
+## Full Proposal
+
+- Expand on the mini proposal
+
+- Align the structure with your chosen research methodologies (e.g., quant; qual; mixed)
+
+- Check out [some samples by Creswell](https://edge.sagepub.com/creswellrd5e/student-resources/research-proposal-tools-and-samples?utm_source=chatgpt.com)
+
+## Common Full Proposal Structure
+
+1. Introduction  
+2. Purpose Statement  
+3. Research Questions and Hypotheses  
+4. Theoretical or Conceptual Framework  
+5. Methodology  
+6. Ethical Considerations  
+7. Timeline and Budget
+8. References  
+9. Appendices  
+
+# Questions?
+
+## Mapping Out Concepts
+
+::: {.fragment .highlight-current-green}
+- Form groups of 3-4
+:::
+
+::: {.fragment .highlight-current-green}
+- Identify key concepts (e.g., Accessibility, Usability, UX)
+:::
+
+::: {.fragment .highlight-current-green}
+- Spend 30-40 minutes mapping and discussing connections
+:::
+
+::: {.fragment .highlight-current-green}
+- Present for 5 minutes, followed by feedback and Q&A
+:::
+
