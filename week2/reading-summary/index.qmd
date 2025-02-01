@@ -1,0 +1,431 @@
+---
+title: "HCI Overview"
+author: "JooYoung Seo"
+institute: "School of Information Sciences</br>University of Illinois at Urbana-Champaign"
+subtitle: "Accessibility in HCI Seminar"
+format:
+  revealjs:
+    slide-tone: true
+    theme: night
+    multiplex: true
+    incremental: true
+---
+
+
+
+## 1.1 Introduction
+
+### Why Study HCI Research?
+
+- Fascination: Endless questions about humans & technology.
+- Rapid Change: Constant evolution due to tech advancements.
+- Complexity:
+    - Diverse methods from many fields.
+    - Complex human participants.
+    - Historical, methodological, multi-dimensional considerations.
+- Importance: Essential for effective, usable, beneficial tech.
+
+---
+
+## 1.1.1 History of HCI
+
+### A Brief History of HCI - Origins
+
+- Formal Founding: 1982 - CHI Conference.
+- Pre-1982 HCI Work:
+    - 1977: Social Security Admin. project (task analysis, etc.).
+    - 1979: Pew presents HCI work.
+    - 1980: Shneiderman's "Software Psychology".
+    - Late 70s: "Office Automation".
+    - 1968: Engelbart's Mouse Demo.
+    - 1945: Bush's "As We May Think".
+
+---
+
+## 1.1.1 History of HCI
+
+### The Rise of HCI: Personal Computing Revolution
+
+- Late 70s/Early 80s: Computers to homes & offices.
+- Mainframes to PCs: Apple II, IBM PC, Commodore.
+- User Shift: Technical experts to everyone.
+- The "Why" of HCI:
+    - Computers as general tools.
+    - Ease of use = adoption.
+    - Interaction design = success.
+- Ubiquitous Computing Emerges.
+
+---
+
+## 1.2 Types of HCI Research Contributions
+
+### What Counts as HCI Research?
+
+- Interdisciplinary: CS, Psychology, Sociology, Engineering, etc.
+- Modified Methods: Adapted from other fields.
+- Wobbrock & Kientz (2016): 7 Contribution Types.
+
+---
+
+## 1.2 Types of HCI Research Contributions
+
+### 7 Types of HCI Research Contributions
+
+1. Empirical Contributions: Data collection.
+2. Artifact Contributions: Interfaces, systems, prototypes.
+3. Methodological Contributions: New research methods.
+4. Theoretical Contributions: Frameworks, models.
+5. Dataset Contributions: Shared datasets.
+6. Survey Contributions: Research reviews & syntheses.
+7. Opinion Contributions: Persuasive writings.
+
+---
+
+## 1.2 Types of HCI Research Contributions
+
+### Dominant Types of HCI Research
+
+- Empirical & Artifact Contributions are Key.
+    - CHI 2016 Analysis: >70% Empirical, 28.4% Artifact.
+- Research often combines Empirical & Artifact work.
+
+---
+
+## 1.3 Changes in Topics - Over Time
+
+### HCI Research Over Time: Topic Shifts - Early HCI
+
+- 1980s: Early HCI Focus:
+    - Office Software (Word Processors, Databases).
+    - Basic Interfaces (Dialog Boxes, Errors).
+    - Classic Articles: Norman, Carroll, Shneiderman.
+- Late 1980s: GUIs Emerge.
+- Late 80s/Early 90s: Usability Engineering Growth.
+
+---
+
+## 1.3 Changes in Topics - Over Time
+
+### HCI Research in the Internet & Mobile Era
+
+- Early-Mid 1990s: Internet & Web Revolution:
+    - New Interfaces: Web pages, Email, IM.
+    - Communication Becomes Central.
+- 2004-2013: Mobile & Portable Computing:
+    - Shift to Tablets, Smartphones.
+
+---
+
+## 1.3 Changes in Topics - Over Time
+
+### HCI Research: User-Generated Content & Modern Trends
+
+- 2004-05: User-Generated Content:
+    - Social Media, Blogs, Wikis.
+    - "You" - Time's Person of the Year (2006).
+- User Diversity Focus:
+    - Age, Disabilities.
+- Late 2000s: Touch & Multitouch Screens.
+- Late 2010s-Present: Collaboration, Emotion, Communication.
+- Current Topics: Mobile, Wearables, Sustainability, Big Data, Accessibility.
+- Future is Dynamic: Tech, Society, Funding, User Needs.
+
+---
+
+## 1.4 Changes in Methods - Over Time
+
+### Evolution of HCI Research Methods - Evolving Tools
+
+- Tech Drives Method Change:
+    - Affordable Tools: Eye-tracking, EMG, EEG.
+    - New Tools: Crowdsourcing (AMT).
+    - New Data: Social Media, Health Records, Big Data.
+- Automation:
+    - Citation Analysis (Google Scholar).
+    - Accessibility Testing Needs Humans.
+
+---
+
+## 1.4 Changes in Methods - Over Time
+
+### Data Collection: From Small to Big Data
+
+- Contrast with Social Sciences: National Datasets exist (Sociology, Economics).
+- HCI: Researchers Collect Own Data.
+- Traditional HCI: Smaller Datasets (50-100).
+- Big Data Rise: 10,000 - 100,000+ Users.
+- Big Data Trade-offs:
+    - Correlations, not Causality.
+- Combine Big & Small Data for Deeper Insights.
+
+---
+
+## 1.4 Changes in Methods - Over Time
+
+### Longitudinal Studies & Participant Complexity
+
+- Lack of Longitudinal HCI Studies.
+- Technology Changes Rapidly.
+- Trend Analysis is Valuable (CSCW, Policy).
+- Longitudinal Data Gaps: Screentime, Long-term Impacts.
+- Complex Participant Recruitment: "Know Thy User".
+    - Representative of Target Users & Task Domain.
+    - Lawyers for Legal Interfaces.
+    - Time & Cost of Recruitment.
+    - Representativeness vs. Random Sampling.
+
+---
+
+## 1.4 Changes in Methods - Over Time
+
+### HCI: A Maturing Discipline
+
+- HCI Degrees: Recent Development.
+- Diverse Backgrounds: CS, IS, Psych, Soc, Eng.
+- Varied Research Approaches.
+- Shift: "Old Computing" (Computers) to "New Computing" (People).
+- HCI Needs Broad Methodological Toolkit.
+
+---
+
+## 1.5 Understanding Methods & Measurement
+
+### Rigor and Relevance in HCI Research
+
+- Essential Balance: Rigor AND Relevance.
+- Practical Impact: Influence Design, Policy, Training.
+- Historical Focus: Practical results for quality of life.
+- Researcher-Practitioner Tension Exists.
+- Rigorous Methods Justify Human-Centered Design.
+- "HCI Evangelism" - Advocate for Users.
+
+---
+
+## 1.5 Understanding Methods & Measurement
+
+### Measuring HCI: From Task Performance to Experience
+
+- Early HCI Measurement: Human Factors & Psychology.
+    - Task Speed, Errors, Accuracy.
+    - Still Fundamental for Usability.
+    - Task-Centered Metrics: Time, Errors, Satisfaction.
+    - Industry Standards (NIST, ISO).
+- Micro-HCI vs. Macro-HCI (Shneiderman).
+    - Micro: Task Performance.
+    - Macro: Motivation, Collaboration, Societal Impact.
+- Beyond Tasks: Enjoyment, Emotion, Community.
+- Need Multi-Method, Qualitative, Longitudinal Approaches.
+
+---
+
+## 1.5 Understanding Methods & Measurement
+
+### Expanding Measurement: Beyond Traditional Methods
+
+- Traditional Methods: Hypothesis Testing, Stats.
+    - Well-Understood, Accepted.
+    - Insufficient for All HCI Phenomena.
+    - "How Often?" "How Long?" vs. "Why?".
+- Lab Study Limits: Mobile, Social, Real-World Use.
+- Need New Methods: Trust, Collaboration, Communities.
+- Social Science Methods Increasingly Important.
+- Justify Method Choices to Diverse Audiences.
+
+---
+
+## 1.6 Interdisciplinary Research in HCI
+
+### Challenges of Interdisciplinary HCI Research
+
+- Interdisciplinarity is Core.
+- Disciplinary Silos Persist.
+- Single-Discipline Evaluation Issues:
+    - Publication Venues (Conf vs. Journal).
+    - Authorship Norms (Single vs. Group).
+    - Data Sharing Practices.
+    - Funding Priorities.
+    - Conference Culture.
+- Disciplinary Awareness is Key for Communication.
+
+---
+
+## 1.6 Interdisciplinary Research in HCI
+
+### Deeper Challenges in Interdisciplinary Research
+
+- No Perfect Method/Discipline.
+- Different Perspectives & Values.
+    - Technical HCI vs. Behavioral HCI.
+    - Varied Expectations on Methods, Outcomes.
+- Disciplinary Focus on Research Stages.
+    - Design Perfection, Theory, or Practicality.
+    - Historical Roots Influence Focus.
+
+---
+
+## 1.6 Interdisciplinary Research in HCI
+
+### Disciplinary Lenses in HCI Research (Generalizations)
+
+- MIS: Theory-Focused (TAM).
+- Computer Science: Practical Outcomes, Interfaces.
+- Sociology: Participant Demographics, Random Sampling.
+- Psychology: "Clean" Research Design.
+- Design: Interface Look & Feel.
+- Value Diverse Perspectives: Triangulation.
+
+---
+
+## 1.7 Research Audience - Beyond Researchers
+
+### Who Are You Doing Research For? (Target Audience)
+
+- Default Audience: Other Researchers.
+    - Citations, Impact Factor, H-index.
+    - Societal Impact Often Overlooked.
+- Other Audiences:
+    - Practitioners (Developers, Designers).
+    - Policymakers (Public Policy).
+- Audience Shapes Research Methods & Communication.
+
+---
+
+## 1.7 Research Audience - Beyond Researchers
+
+### Reaching Practitioners and Policymakers
+
+- Practitioners (Industry):
+    - Industrial HCI Labs: Research + Product Impact.
+    - University-Industry Partnerships.
+    - Disclosure, IP Concerns.
+    - Product-Specific Research Focus.
+- Policymakers (Public Policy):
+    - Data for Laws, Regulations, Human Rights.
+    - HCI Policy Outreach Underdeveloped.
+    - HCI Can Have Real Policy Impact.
+
+---
+
+## 1.7 Research Audience - Beyond Researchers
+
+### Research for Policymakers: Key Considerations
+
+- Policymakers Focus On:
+    - Scale of Impact.
+    - Relevant Laws & Policies.
+    - Longitudinal Trends.
+- Timelines are Critical: Missed Deadlines = No Impact.
+- Communication is Key:
+    - Face-to-Face Meetings.
+    - Concise Summaries for Non-Experts.
+
+---
+
+## 1.8 Research in Context - Related Research
+
+### Research in Context: Building Scientific Knowledge
+
+- No Perfect Study or Method.
+- Scientific Progress = Multiple Studies Over Time.
+    - Replication is Vital (Rare in HCI).
+    - Triangulation: Multiple Methods & Teams.
+- Research Life Cycle (Project Level): Design -> Data -> Report.
+- Research Life Cycle (Field Level): Method Choice Evolves.
+
+---
+
+## 1.8 Research in Context - Related Research
+
+### Method Selection in a Research Area: A Life Cycle
+
+- New Research Area -> Exploratory Methods First:
+    - Surveys, Interviews, Ethnography.
+    - Understand Landscape & Users.
+- Later Stages -> Structured Methods:
+    - Experiments, Automated Data.
+    - Build on Exploratory Findings.
+- Shneiderman: Observation -> Intervention -> Experimentation.
+- Example: Down Syndrome & Tech Research.
+
+---
+
+## 1.8 Research in Context - Related Research
+
+### Lab vs. Field Studies: Context Matters
+
+- Lab Studies: Controlled, Precise Measurement.
+- Field Studies ("In the Wild"): Real-World Context.
+- Debate: Which is "Better"?
+    - Mobile Research often favors Field Studies.
+    - Understand Tech in Complex Lives.
+- Field Study Challenges: Informed Consent in Public.
+- Combine Lab & Field for Richer Insights.
+- Disciplinary Background Influences Approach.
+
+---
+
+## 1.8 Research in Context - Related Research
+
+### Evidence Over Time & Conflicting Findings
+
+- Evidence Accumulation: Broad, Shallow Menus.
+- Depth vs. Breadth Menu Example: Consistent Findings.
+- Ongoing Debates: Usability Test User Number.
+- Changing Answers: User Preferences Evolve.
+- Embrace Collaboration: Other Researchers Help Strengthen Findings.
+- Worry if NO ONE Else is Interested!
+
+---
+
+## 1.9 Inherent Trade-offs in HCI
+
+### Inherent Trade-offs: Design is Not Optimization
+
+- No Single "Best" Design.
+- Beyond Simple Metrics.
+- Trade-offs are Inevitable.
+- Multiple Stakeholders.
+- Good Research: Understand Factors & Conflicts.
+
+---
+
+## 1.9 Inherent Trade-offs in HCI
+
+### Examples of HCI Trade-offs
+
+- Usability vs. Consistency (QWERTY).
+- Usability vs. Security (Passwords).
+- Usability vs. Sustainability (New Devices).
+
+---
+
+## 1.9 Inherent Trade-offs in HCI
+
+### User-Centeredness and Broader Impacts
+
+- User-Centered HCI: Impact on Human Life.
+- Past Concerns: RSI, Depression.
+- Current Concerns: Ecological Impact.
+- Persuasive Tech & Sustainability.
+- Ecological Impact of HCI Research & Design.
+
+---
+
+## Mapping Out Concepts
+
+::: {.fragment .highlight-current-green}
+- Form groups of 3-4
+:::
+
+::: {.fragment .highlight-current-green}
+- Identify key concepts (e.g., Accessibility, Usability, UX)
+:::
+
+::: {.fragment .highlight-current-green}
+- Spend 30-40 minutes mapping and discussing connections
+:::
+
+::: {.fragment .highlight-current-green}
+- Present for 5 minutes, followed by feedback and Q&A
+:::
+

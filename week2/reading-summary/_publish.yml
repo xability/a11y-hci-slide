@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: 8ee8f298-2e35-4de1-a686-9fb25338e691
+      url: https://jooyoungseo.quarto.pub/hci-overview
