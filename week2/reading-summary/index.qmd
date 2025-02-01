@@ -12,6 +12,11 @@ format:
 ---
 
 
+## Reading Summary
+
+* Lazar, J., Feng, J.H., & Hochheiser, H. (2017). Research Methods in Human-Computer Interaction (2nd ed.). Morgan Kaufmann. (Chapter 1)
+
+
 
 ## 1.1 Introduction
 
