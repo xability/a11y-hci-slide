@@ -7,3 +7,5 @@ This repository contains the materials for the seminar on Accessibility in HCI i
 - [Week 2-01: Course Introduction](week2/welcome)
 
 - [Week 2-02: HCI Overview](week2/reading-summary)
+
+- [Week 3: Perspectives on Disabilities](week3/index.html)
