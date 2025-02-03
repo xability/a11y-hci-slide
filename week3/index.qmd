@@ -1,0 +1,125 @@
+---
+title: "Perspectives on Disabilities"
+author: "JooYoung Seo"
+institute: "School of Information Sciences</br>University of Illinois at Urbana-Champaign"
+subtitle: "Accessibility in HCI Seminar"
+format:
+  revealjs:
+    slide-tone: true
+    theme: night
+    multiplex: true
+    incremental: true
+    speech:
+      nextKeyword: "gotonext"
+      prevKeyword: "gotoprevious"
+revealjs-plugins:
+  - speech
+  # - subtitles
+---
+
+
+## A11y vs. Usability
+
+::: {.fragment .highlight-current-green}
+- Form groups of 3-4
+:::
+
+::: {.fragment .highlight-current-green}
+- Identify key concepts between accessibility and usability
+:::
+
+::: {.fragment .highlight-current-green}
+- Spend 30-40 minutes mapping and discussing connections
+:::
+
+::: {.fragment .highlight-current-green}
+- Present for 5 minutes, followed by feedback and Q&A
+:::
+
+## 장애란 무엇일까요?
+
+- 여러분이 생각하는 장애의 정의는 무엇인지 생각해 보고, 그 종류를 나열해 보세요.
+
+- 다음의 키워드들을 그룹과 함께 조사해 보고 각 개념들이 어떻게 연결되어 있는지 생각해 보세요.
+
+  - 사회 모델
+  - 의학 모델
+  - ...
+
+## Can you Smell? {background-image="image.png" background-size="cover" background-position="center" background-repeat="no-repeat" background-opacity="1"}
+
+## Can you See?
+
+::: {.fragment}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IiVKwpWXDic" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+:::
+
+
+# What Is Disability?
+
+## Disability Scopes
+
+::: {.fragment .highlight-current-green}
+- Social model of disability
+:::
+
+::: {.fragment .highlight-current-green}
+- Medical model of disability
+:::
+
+::: {.fragment .highlight-current-green}
+- Ableism
+:::
+
+
+::: {.fragment .highlight-current-green}
+- Deficit view
+:::
+
+::: {.fragment .highlight-current-green}
+- Situational disability
+:::
+
+::: {.fragment .highlight-current-green}
+- Temporary disability
+:::
+
+::: {.fragment .highlight-current-green}
+- Permanent disability
+:::
+
+## Types of Disabilities
+
+- What are the universally recognized types of disabilities?
+
+- How can we categorize them?
+
+- What are the limitations of such categorization?
+
+## Reading Discussion
+
+- Dinishak, 2022:
+
+1. What are the key characteristics of a deficit view, and how does it relate to pathologizing human differences?
+
+2. How does the distinction between quantitative and qualitative concepts play out in understanding human differences, particularly in the case of autism?
+
+3. Can you provide an example of a deficit view that you have encountered in your own research or clinical practice, and how might you reframe it based on the insights from Dinishak's article?
+
+4. How does the concept of dehumanization apply to individuals with autism, and what are the potential consequences of such dehumanization?
+
+5. What are the implications of Dinishak's analysis for the broader field of disability studies, and how can we move towards a more inclusive and empowering understanding of human diversity?
+
+
+## Person-First vs. Identity-First Language
+
+* Check [this web dashboard](https://disabilityterminology.athersharif.com/) out.
+
+## Download Subtitle
+
+<button type="button" class="subtitles-dl-btn">Download Subtitles</button>
+
+Click the button above. This will download a text file with the subtitles so far for the entire presentation.
