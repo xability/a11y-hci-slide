@@ -9,3 +9,7 @@ This repository contains the materials for the seminar on Accessibility in HCI i
 - [Week 2-02: HCI Overview](week2/reading-summary)
 
 - [Week 3: Perspectives on Disabilities](week3/index.html)
+
+- [Week4-01: Assistive Technology (Discussion)](https://docs.google.com/presentation/d/1IhHBMXyPvV8Wh1ZjliS_alkHNr319_jFKQth8KQY76k/edit#slide=id.p)
+
+- [Week4-02: Assistive Technology (Overview)](week4/index.html)
