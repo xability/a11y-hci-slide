@@ -1,0 +1,141 @@
+---
+title: "Assistive Technologies"
+author: "JooYoung Seo"
+institute: "School of Information Sciences</br>University of Illinois at Urbana-Champaign"
+subtitle: "Accessibility in HCI Seminar"
+format:
+  revealjs:
+    slide-tone: true
+    theme: night
+    multiplex: true
+    incremental: true
+    speech:
+      nextKeyword: "gotonext"
+      prevKeyword: "gotoprevious"
+revealjs-plugins:
+  - speech
+  # - subtitles
+---
+
+## Assistive Technologies (AT) and Information Communication Technologies (ICT)
+
+*   **AT:** Tools and devices designed to help individuals with disabilities perform tasks and participate in daily life.
+*   **ICT:** Technologies that provide access to information and communication, such as computers, internet, mobile devices, and software applications.
+*   **Intersection:**  Understanding how AT and ICT intersect is crucial for creating accessible digital experiences. ICT should be compatible with and usable by various AT.
+
+# Assistive Technologies for Visual Impairments
+
+## Screen Readers
+
+*   Software that converts text and interface elements into speech or braille.
+*   Examples: JAWS, NVDA, VoiceOver, Orca
+*   [NV Access - NVDA Screen Reader](https://www.nvaccess.org/)
+*   [Freedom Scientific - JAWS Screen Reader](https://www.freedomscientific.com/training/jaws/)
+
+## Magnification Software
+
+*   Enlarges portions of the screen to make content easier to see.
+*   Examples: ZoomText, Windows Magnifier, macOS Zoom
+
+## Braille Displays
+
+*   Electronic devices that display text in braille, often used with screen readers.
+*   Provides tactile access to digital information.
+
+
+# Assistive Technologies for Auditory Impairments
+
+## Assistive Listening Devices (ALDs)
+
+*   Amplify and clarify sound for individuals with hearing loss.
+*   Types: Hearing aids, cochlear implants, FM systems, induction loops.
+*   [National Institute on Deafness and Other Communication Disorders (NIDCD) - Assistive Devices for People with Hearing, Voice, Speech, or Language Disorders](https://www.nidcd.nih.gov/health/assistive-devices-people-hearing-voice-speech-or-language-disorders)
+
+## Captioning and Subtitles
+
+*   Textual representation of audio content in videos and live events.
+*   Essential for accessibility of multimedia content.
+
+# Assistive Technologies for Motor Impairments
+
+## Switch Devices
+
+*   Allow users to interact with technology using alternative input methods.
+*   Activated by various movements: buttons, head switches, sip-and-puff.
+
+## Eye-Gaze Systems
+
+*   Track eye movements to control a computer cursor or other devices.
+*   Enables hands-free interaction for individuals with limited mobility.
+*   [Tobii Dynavox - Eye Tracking](https://us.tobiidynavox.com/pages/what-is-eye-tracking)
+
+## Voice Control Software
+
+*   Allows users to control computers and devices using voice commands.
+*   Examples: Dragon NaturallySpeaking, Siri, Google Assistant, Alexa
+*   [Nuance - Dragon Professional](https://shop.nuance.com/store/nuanceus/en_US/cat/categorySkuCatalog/CategoryID.69439800)
+
+
+# Assistive Technologies for Cognitive & Speech Impairments
+
+## Text-to-Speech (TTS)
+
+*   Synthesizes spoken words from digital text.
+*   Benefits individuals with reading difficulties or speech impairments.
+*   Often integrated into screen readers and other applications.
+*   [ReadSpeaker - Text to Speech Solutions](https://www.readspeaker.com/)
+
+## Reading Aids
+
+*   Tools to support reading comprehension and fluency.
+*   Examples:  dyslexia fonts, text highlighting, line readers, optical character recognition (OCR).
+
+## Memory Aids
+
+*   Devices and software to assist with memory and organization.
+*   Examples:  Reminder apps, digital calendars, note-taking software, voice recorders.
+
+# Testing with Assistive Technologies
+
+## Why Test with AT?
+
+*   Ensures real-world accessibility for users who rely on these tools.
+*   Identifies usability issues that may not be apparent through other testing methods.
+*   Validates conformance with accessibility standards.
+
+##  Testing Methods
+
+*   **Manual Testing:**  Involving users with disabilities who use AT to test the ICT.
+*   **Automated Testing:**  Tools can check for some types of AT compatibility issues, but manual testing is crucial.
+*   **Usability Testing:** Observe users with disabilities using AT to complete tasks within the ICT.
+
+##  Common AT for Testing
+
+*   **Screen Readers:**  NVDA, JAWS (common for web accessibility testing)
+*   **Magnification Software:**  Built-in OS magnifiers
+*   **Keyboard-only Navigation:** Testing without a mouse
+*   **Voice Control:** Operating systems' built-in voice control features
+
+# AT Related Legislation
+
+##  Examples of Legislation
+
+*   **Americans with Disabilities Act (ADA) (USA):** Mandates accessibility in various areas, including ICT in some contexts.
+    *   [ADA.gov](https://www.ada.gov/)
+*   **Section 508 of the Rehabilitation Act (USA):** Requires federal agencies to make their ICT accessible.
+    *   [Section508.gov](https://www.section508.gov/)
+*   **Accessibility for Ontarians with Disabilities Act (AODA) (Canada):**  Provincial legislation with ICT accessibility standards.
+    *   [Ontario.ca - Accessibility Laws](https://www.ontario.ca/page/accessibility-laws)
+*   **European Accessibility Act (EAA) (EU):**  Sets accessibility requirements for a range of products and services, including ICT.
+    *   [European Commission - European Accessibility Act](https://ec.europa.eu/social/main.jsp?catId=1202)
+
+##  Importance of Legislation
+
+*   Provides legal frameworks to ensure accessibility.
+*   Drives development and procurement of accessible ICT and AT.
+*   Promotes inclusivity and equal access for people with disabilities.
+
+##  Further Resources
+
+*   **Web Accessibility Initiative (WAI):** [https://www.w3.org/WAI/](https://www.w3.org/WAI/)
+*   **Assistive Technology Industry Association (ATIA):** [https://www.atia.org/](https://www.atia.org/)
