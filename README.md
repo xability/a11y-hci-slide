@@ -15,3 +15,7 @@ This repository contains the materials for the seminar on Accessibility in HCI i
 - [Week4-02: Assistive Technology (Overview)](week4/index.html)
 
 - [Week 5: Accessible Design Principles and Guidelines](https://docs.google.com/presentation/d/1AtDaK2qI6L3_6Y_2stt83Fk6r75JcuDc6kSeGZuYxQo/edit#slide=id.p)
+
+- [Week 6: Cognitive Walk-Through, Heuristics, and WCAG](https://docs.google.com/presentation/d/1xc74Sf4Ac27iDV1c0_OrYiFaxMlfLsQ4cW7Wlc1LpGE/edit#slide=id.p)
+
+- [Week 7: Accessible Document and Media Design](https://docs.google.com/presentation/d/1Wk3x11ssHL89WlP-ZTmzSqwsdEol-bLlM_pg4QKXgEA/edit#slide=id.p)
