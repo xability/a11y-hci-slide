@@ -19,3 +19,6 @@ This repository contains the materials for the seminar on Accessibility in HCI i
 - [Week 6: Cognitive Walk-Through, Heuristics, and WCAG](https://docs.google.com/presentation/d/1xc74Sf4Ac27iDV1c0_OrYiFaxMlfLsQ4cW7Wlc1LpGE/edit#slide=id.p)
 
 - [Week 7: Accessible Document and Media Design](https://docs.google.com/presentation/d/1Wk3x11ssHL89WlP-ZTmzSqwsdEol-bLlM_pg4QKXgEA/edit#slide=id.p)
+
+- [Week 8: Mobile Accessibility](https://docs.google.com/presentation/d/1AwkZH6zI5kV73Pk7idBPp7xXmcQ4IZaMAJM7Kv4AdFU/edit#slide=id.p)
+
