@@ -22,7 +22,7 @@ This repository contains the materials for the seminar on Accessibility in HCI i
 
 - [Week 8: Mobile Accessibility](https://docs.google.com/presentation/d/1AwkZH6zI5kV73Pk7idBPp7xXmcQ4IZaMAJM7Kv4AdFU/edit#slide=id.p)
 
-- [Week 10: User Personas](https://docs.google.com/presentation/d/1AwkZH6zI5kV73Pk7idBPp7xXmcQ4IZaMAJM7Kv4AdFU/edit#slide=id.p)
+- [Week 10: User Personas](week10/index.html)
 
 
 
