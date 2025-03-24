@@ -25,6 +25,12 @@ format:
 
 * How did the authors use the user-centered design process to go beyond simply meeting compliance standards, and what were the benefits of this approach?
 
+
+## Discussion Questions
+
+### Schulz et al. (2014:
+
+
 * How did the use of personas influence the design decisions in the development of the IoT prototypes and mobile apps? Provide specific examples from the text.
 
 * Discuss the advantages and potential limitations of using personas in this context.
