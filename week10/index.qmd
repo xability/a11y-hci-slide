@@ -1,0 +1,52 @@
+---
+title: "User Personas"
+author: "JooYoung Seo"
+institute: "School of Information Sciences</br>University of Illinois at Urbana-Champaign"
+subtitle: "Accessibility in HCI Seminar"
+format:
+  revealjs:
+    slide-tone: true
+    theme: night
+    multiplex: true
+    # incremental: true
+    # speech:
+    #   nextKeyword: "gotonext"
+    #   prevKeyword: "gotoprevious"
+# revealjs-plugins:
+#   - speech
+  # - subtitles
+---
+
+## Discussion Questions
+
+### Schulz et al. (2014:
+
+* The authors argue that adhering to accessibility guidelines alone is insufficient for achieving universal design. How does their case study demonstrate this?
+
+* How did the authors use the user-centered design process to go beyond simply meeting compliance standards, and what were the benefits of this approach?
+
+* How did the use of personas influence the design decisions in the development of the IoT prototypes and mobile apps? Provide specific examples from the text.
+
+* Discuss the advantages and potential limitations of using personas in this context.
+
+## User Personas
+
+* [User Personas Examples - gov.uk]](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles)
+
+* [Other Persona Examples - UIT Stanford](https://uit.stanford.edu/accessibility/design-personas#:~:text=The%20Office%20for%20Digital%20Accessibility,and%20permanent%20or%20situational%20impairments)
+
+
+## Resources for Generating Personas
+
+* https://ideabuddy.com/free-ai-tools/user-persona-generator/
+
+* https://userpersona.dev/
+
+## Create Your Proposal Persona with:
+
+- **Name & Photo:** Gives a face and identity to the persona (e.g., *“Clark, 26, Software Developer”*).  
+- **Background:** Relevant demographics, occupation, skills, context of use.  
+- **Goals:** What the user wants to achieve (tasks, needs).  
+- **Frustrations/Pain Points:** Challenges or obstacles faced.  
+- **Needs & Preferences:** Specific requirements or preferences (e.g., tech comfort, accessibility needs).  
+- **Quote or Story:** A brief narrative or quote that captures the persona’s perspective.
